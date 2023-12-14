@@ -5,13 +5,12 @@
 - 📫 How to reach me
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>### Top Languages</summary>
 <br>
-This is how you dropdown.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirsty-Ammundsen&layout=compact&theme=dark)
 </details>
 
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirsty-Ammundsen&layout=compact&theme=dark)
+
 
 ### Github Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirsty-Ammundsen&theme=dark" width="48%" >
