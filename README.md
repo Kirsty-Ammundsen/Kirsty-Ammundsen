@@ -5,8 +5,10 @@
 - 📫 How to reach me
 
 <details>
-<summary>### Top Languages</summary>
+<summary> ### Top Languages </summary>
 <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirsty-Ammundsen&layout=compact&theme=dark" width="48%" >
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirsty-Ammundsen&layout=compact&theme=dark)
 </details>
 
@@ -15,7 +17,7 @@
 ### Github Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirsty-Ammundsen&theme=dark" width="48%" >
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kirsty-Ammundsen&show_icons=true&theme=gotham" alt="github stats" width="48%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kirsty-Ammundsen&show_icons=true&theme=gotham" alt="github stats" width="48%"/>
 
 <p align="center">
   <a href="https://skillicons.dev">
