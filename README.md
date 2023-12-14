@@ -1,21 +1,24 @@
-- 👋 Hi, I’m Kirsty!
-- 👀 I’m interested in Anaesthesia, Ceroc dancing, and delicious delicious food. 
-- 🌱 I’m currently learning how to make my own portfolio page with deno.
-- 💞️ I’m looking to collaborate on anything that I could use in day-to-day life!
-- 📫 How to reach me
+ 👋 Hi, I’m Kirsty!
+ 👀 I’m interested in Anaesthesia, Ceroc dancing, and delicious delicious food. 
+ 🌱 I’m currently learning how to make my own portfolio page with deno.
+ 💞️ I’m looking to collaborate on anything that I could use in day-to-day life!
+ 📫 How to reach me -
 
 <details>
-<summary> <h1>Top Languages</h1> </summary>
+<summary> <h3>Top Languages</h3> </summary>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirsty-Ammundsen&layout=compact&theme=dark" width="48%" >
 </details>
 
 
-
-### Github Stats
+<details>
+<summary> <h3>Github Stats</h3> </summary>
+<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirsty-Ammundsen&theme=dark" width="48%" >
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kirsty-Ammundsen&show_icons=true&theme=gotham" alt="github stats" width="48%"/>
+</details>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
