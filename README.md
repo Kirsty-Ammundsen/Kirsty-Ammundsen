@@ -6,12 +6,9 @@
 
 
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Kirsty-Ammundsen&show_icons=true&theme=gotham" alt="github stats" width="100%"/>
-
-
-
-### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirsty-Ammundsen&theme=dark" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=Kirsty-Ammundsen&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirsty-Ammundsen&layout=compact)
