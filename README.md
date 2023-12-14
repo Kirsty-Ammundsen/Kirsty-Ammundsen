@@ -1,8 +1,9 @@
- 👋 Hi, I’m Kirsty!
- 👀 I’m interested in Anaesthesia, Ceroc dancing, and delicious delicious food. 
- 🌱 I’m currently learning how to make my own portfolio page with deno.
- 💞️ I’m looking to collaborate on anything that I could use in day-to-day life!
- 📫 How to reach me -
+ #### Hi, I’m Kirsty! 
+
+- I'm a Full Stack Web Developer based in New Zealand ✈️
+- My interests include: Anaesthesia, Ceroc dancing, and delicious delicious food 🧋
+- The next challenge is: Make my own portfolio page with deno 🦕
+- I’m looking to collaborate on anything that will teach me something!
 
 <details>
 <summary> <h3>Top Languages</h3> </summary>
