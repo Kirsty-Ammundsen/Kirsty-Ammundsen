@@ -5,11 +5,9 @@
 - 📫 How to reach me
 
 <details>
-<summary> ### Top Languages </summary>
+<summary> <h1>Top Languages</h1> </summary>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirsty-Ammundsen&layout=compact&theme=dark" width="48%" >
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirsty-Ammundsen&layout=compact&theme=dark)
 </details>
 
 
