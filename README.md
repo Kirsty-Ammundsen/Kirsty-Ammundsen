@@ -18,7 +18,7 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirsty-Ammundsen&theme=dark" width="51%" >
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kirsty-Ammundsen&show_icons=true&theme=gotham" alt="github stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kirsty-Ammundsen&show_icons=true&theme=dark" alt="github stats" width="48%"/>
 </details>
 
 
