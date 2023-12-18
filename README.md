@@ -7,10 +7,17 @@
 
 ## Pinned Projects
 
+- Personal Project
+  - Any project that I have chosen for myself.
 - Solo programming - projects done by myself in 1-2 afternoons.
+  - A pre-made challenge where I learn new skills. 
 - Pair programming - projects done with a classmate in 1-2 afternoons.
+  - A pre-made challenge where I learn new tech skills and how to communicate with my pair. 
 - Friday Group Projects - projects done with 2-3 other teammates for ~5 hours on a Friday.
-- Final Group Projects - a multi-day project done with 3 other teammates over 7 days.  
+  - Using a basic template, the team comes up with an idea, creates it, and presents it to the class.
+- Final Group Projects - a multi-day project done with 3 other teammates over 7 days.
+  - Using a basic template, an idea is planned, executed, and presented to a wider (technical/non-technical) audience.
+
 
 <details>
 <summary> <h3>Top Languages</h3> </summary>
