@@ -5,6 +5,13 @@
 - The next challenge is: Make my own portfolio page with deno 🦕
 - I’m looking to collaborate on anything that will teach me something!
 
+##Projects
+
+- Solo programming - projects done by myself in 1-2 afternoons.
+- Pair programming - projects done with a classmate in 1-2 afternoons.
+- Friday Group Projects - projects done with 2-3 other teammates for ~5 hours on a Friday.
+- Final Group Projects - a multi-day project done with 3 other teammates over 7 days.  
+
 <details>
 <summary> <h3>Top Languages</h3> </summary>
 <br>
@@ -12,7 +19,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirsty-Ammundsen&layout=compact&theme=dark" width="48%" >
 </p>
 </details>
-
 <details>
 <summary> <h3>Github Stats</h3> </summary>
 <br>
