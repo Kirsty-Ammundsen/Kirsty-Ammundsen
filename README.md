@@ -5,7 +5,7 @@
 - The next challenge is: Make my own portfolio page with deno 🦕
 - I’m looking to collaborate on anything that will teach me something!
 
-##Projects
+## Pinned Projects
 
 - Solo programming - projects done by myself in 1-2 afternoons.
 - Pair programming - projects done with a classmate in 1-2 afternoons.
