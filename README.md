@@ -23,7 +23,7 @@
 <summary> <h3>Top Languages</h3> </summary>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirsty-Ammundsen&layout=compact&theme=dark" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirsty-Ammundsen&layout=compact&theme=dark&hide=html" width="48%" >
 </p>
 </details>
 <details>
